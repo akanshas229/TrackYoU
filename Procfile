@@ -1,0 +1,1 @@
+web: gunicorn TrackYou.wsgi:application --log-file - 
